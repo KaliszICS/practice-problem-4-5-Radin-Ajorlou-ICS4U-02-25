@@ -1,6 +1,10 @@
 public class PracticeProblem {
 
 	public static void main(String args[]) {
+		Student radin = new Student("Radin", 18, "348214909");
+		System.out.println(radin);
+        Student Ajorlou =new Student ("Jake", 29, "348214908");
+        System.out.println(radin.equals(new Object[]{null}));
 
 	}
 
